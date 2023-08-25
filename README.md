@@ -1,5 +1,5 @@
 # Steam
-Converts prices to your currency of choice.
+Userscript that Converts prices to your currency of choice.
 
 List Store and (common) Pirate links
 
